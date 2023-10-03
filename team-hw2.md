@@ -16,3 +16,5 @@ gantt
 
 ```
 ## PERT
+
+![thw2](thw2.png "thw2")
