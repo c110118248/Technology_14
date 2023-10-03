@@ -3,7 +3,7 @@
 ## 甘特圖
 ```mermaid
 gantt
-    title hw練習 甘特圖
+    title 專案 甘特圖
 
     研擬計畫     : a1 , 2023-10-06 , 3d
     取得硬體     : a2 , after a1 , 2d
