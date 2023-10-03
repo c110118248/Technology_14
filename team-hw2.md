@@ -5,7 +5,7 @@
 gantt
     title 專案 甘特圖
 
-    研擬計畫     : a1 , 2023-10-06 , 3d
+    研擬計畫     : a1 , 2023-10-03 , 3d
     取得硬體     : a2 , after a1 , 2d
     架構分解     : a3 , after a1 , 2d
     任務分配     : a4 , after a1 , 1d
