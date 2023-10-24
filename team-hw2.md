@@ -116,8 +116,8 @@ gantt
 ## 使用Figma劃出第一個使用案例的動態模擬畫面
 ![手機](IPhone.png)
 
-##DFD(HW4)
+## DFD(HW4)
 ![DFD](DFD.png)
 
-##DFD0(HW4)
+## DFD0(HW4)
 ![DFD0](DFD0.png)
