@@ -1,6 +1,6 @@
 ---
 ## 繪出UML 類別圖(class Diagram)
-![UML](UMLClass-D.svg)
+![UML](UMLClass-D.jpg)
 
 ---
 ## 繪製循序圖與活動圖
