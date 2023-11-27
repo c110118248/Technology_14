@@ -1,19 +1,19 @@
 ### 分鏡表
 
 #### 圖一 登入/註冊頁面
-![p1](project1.jpg)
+![p1](int1.png)
 
 #### 圖二 詢問基本資料(客製化計畫)
-![p2](project1.jpg)
+![p2](int1.png)
 
 #### 圖三 是否曾經斷食過?(客製化計畫)
-![p3](project1.jpg)
+![p3](int1.png)
 
 #### 圖四 斷食目標(客製化計畫)
-![p4](project1.jpg)
+![p4](int1.png)
 
 #### 圖五 理想體重(客製化計畫)
-![p5](project1.jpg)
+![p5](int5.png)
 
 #### 圖六 斷食計畫強度(客製化計畫)
-![p6](project1.jpg)
+![p6](int6.png)
